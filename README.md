@@ -14,28 +14,34 @@ Emeris in Sandton, Johannesburg.
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
-  - I'm currently studying at Emeris in Sandton.
-  - I taught myself the basics of many programming languages, listed [here](#my-languages).
-  - I use AI sometimes for debugging or explaining concepts, but I prefer writing my own code. I’m here to actually learn, not just generate projects.
+  - I'm currently studying at Emeris Sandton.
+  - I taught myself the basics of many programming languages, listed [here](#my-languages), as well as most of what I know.
+  - I use AI sometimes for debugging or explaining concepts, but I prefer writing my own code.
+    I’m here to actually learn, not just generate projects. 
 
 ## My Languages/Frameworks
 
-I have at least intermediate knowledge in:
+I am proficient in:
 
-- CSS
-- HTML
-- JavaScript (Node.js and web)
+- JavaScript (Both `node.js` and web development)
 - TypeScript
 - React
-- PostgreSQL
+- CSS
+- HTML
+- Git
 
 And I know at least the basics of:
 
-- Java
-- Pascal (Delphi)
+- PostgreSQL
+- Bash scripting for Linux (practiced via the Windows Subsystem for
+  Linux (WSL))
+- Java (From my 1st year of university)
+- C# (From my 2nd year of university)
+- Pascal (Delphi specifically, from high school)
 - Python
 
-I use COBOL rarely for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/)).
+I use COBOL very rarely for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/), 
+using [Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)).
 
 ---
 
@@ -50,4 +56,22 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - Material UI (React)
 - jQuery
 - Makefile
+- XML
+- XSD
+- XML DTDs
 
+## Concepts I'm Familiar With
+
+I am familiar with the following concepts:
+
+- Conventional Commits (Git)
+- Signed Commits and Tags with GPG keys
+- Data Structures and Algorithms
+- GitHub repositories (I currently have 22 public repos all made by myself as of 2026-03-21)
+
+I am currently learning:
+
+- Accessibility in Web Development
+  - `aria` attributes
+  - Contrast ratios
+- Bash Scripting
