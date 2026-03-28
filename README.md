@@ -29,7 +29,8 @@ Science student at Emeris in Sandton, Johannesburg.
   - My birthday is on 2006-12-06
   - I'm currently studying at Emeris Sandton.
   - I taught myself the basics of many programming languages,
-    listed [here](#my-languages), as well as most of what I know.
+    listed [here](#my-languages), as well as most of what I know in terms of
+    programming concepts and syntax.
   - I use AI sometimes for debugging or explaining concepts,
     but I prefer writing my own code. I’m here to actually learn, not just
     generate projects.
@@ -97,4 +98,4 @@ I am currently learning:
 - Accessibility in Web Development
   - `aria` attributes
   - Contrast ratios
-- Bash Scripting
+- Object-oriented programming (OOP)
