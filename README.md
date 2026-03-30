@@ -89,13 +89,12 @@ I am familiar with the following concepts:
 
 - Conventional Commits (Git)
 - Signed Commits and Tags with GPG keys
-- Data Structures and Algorithms
+- Object-oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
 - GitHub repositories (I currently have 22 public repos all made by myself as of
   2026-03-21)
 
 I am currently learning:
 
-- Accessibility in Web Development
-  - `aria` attributes
-  - Contrast ratios
-- Object-oriented programming (OOP)
+- OOP
+- DSA
