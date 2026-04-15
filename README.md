@@ -9,6 +9,7 @@ Table of Contents:
   - [About Me](#about-me)
   - [My Languages/Frameworks](#my-languagesframeworks)
   - [Concepts I'm Familiar With](#concepts-im-familiar-with)
+  - [Concepts I'm Improving](#concepts-im-improving)
 
 ---
 
@@ -71,6 +72,7 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - C++
 - Bootstrap 4
 - Bootstrap 5
+- Fortran 90
 - PHP
 - Material UI (React)
 - jQuery
@@ -94,7 +96,12 @@ I am familiar with the following concepts:
 - GitHub repositories (I currently have 22 public repos all made by myself as of
   2026-03-21)
 
-I am currently learning:
+## Concepts I'm Improving
 
-- OOP
-- DSA
+These are areas I'm actively working on:
+
+- Writing readable, self-documenting code with meaningful, targeted comments
+- Improving debugging skills in larger or unfamiliar codebases
+- Deep understanding of algorithms and data structures
+- Applying object-oriented design principles (DRY, SOLID)
+- Using Conventional Commits for cleaner Git history
