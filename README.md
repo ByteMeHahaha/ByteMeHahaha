@@ -58,10 +58,6 @@ And I know at least the basics of:
 - Pascal (Delphi specifically, from high school)
 - Python
 
-I use COBOL very rarely for hobby projects (specifically [GnuCOBOL](https://gnucobol.sourceforge.io/),
-using
-[Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)).
-
 ---
 
 I have previously experimented to varying degrees with the languages and
@@ -79,6 +75,9 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - Makefile
 - XML
 - XSD
+- COBOL
+  - specifically [GnuCOBOL](https://gnucobol.sourceforge.io/), using
+    [Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)
 - Extended Backus-Naur Form (EBNF)
   - Specifically, in my repository
     ["E-Calc"](https://github.com/ethanKletschke/E-Calc), I used the stricter ISO
