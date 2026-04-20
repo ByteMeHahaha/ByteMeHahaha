@@ -16,7 +16,7 @@ Table of Contents:
 ## About Me
 
 Heyo, I’m Ethan Kletschke! I'm a South African second-year Bachelor of Computer
-Science student at Emeris in Sandton, Johannesburg.
+Science student!
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
   of programming languages related to software and web apps.
@@ -28,10 +28,13 @@ Science student at Emeris in Sandton, Johannesburg.
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
-  - I'm currently studying at Emeris Sandton.
   - I taught myself the basics of many programming languages,
     listed [here](#my-languages), as well as most of what I know in terms of
     programming concepts and syntax.
+    - I taught myself using sites like [W3Schools.com](https://www.w3schools.com/),
+      [Tutorialspoint.com](https://www.tutorialspoint.com/),
+      [GeeksForGeeks](https://www.geeksforgeeks.org/), and countless programming
+      languages' documentation.
   - I use AI sometimes for debugging or explaining concepts,
     but I prefer writing my own code. I’m here to actually learn, not just
     generate projects.
@@ -50,6 +53,7 @@ I am proficient in:
 And I know at least the basics of:
 
 - Basic SQL
+- JSON
 - PostgreSQL
 - Bash scripting for Linux (practiced via the Windows Subsystem for
   Linux (WSL))
@@ -78,6 +82,7 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - Makefile
 - XML
 - XSD
+- XSLT (XML Styling)
 - Extended Backus-Naur Form (EBNF)
   - Specifically, in my repository
     ["E-Calc"](https://github.com/ethanKletschke/E-Calc), I used the stricter ISO
