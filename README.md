@@ -20,7 +20,7 @@ Science student at Emeris in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
   of programming languages related to software and web apps.
-  - See my portfolio app [here](https://ethankletschke.netlify.app/).
+  - See my portfolio site [here](https://ethankletschke.netlify.app/).
 - How to reach me:
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethan-kletschke-164a24384)
   - Email:
