@@ -1,11 +1,11 @@
-# Ethan Kletschke
+# Ethan
 
 All about me.
 
 ---
 
 Table of Contents:
-- [Ethan Kletschke](#ethan-kletschke)
+- [Ethan](#ethan)
   - [About Me](#about-me)
   - [My Languages/Frameworks](#my-languagesframeworks)
   - [Concepts I'm Familiar With](#concepts-im-familiar-with)
@@ -15,7 +15,7 @@ Table of Contents:
 
 ## About Me
 
-Heyo, I’m Ethan Kletschke! I'm a South African second-year Bachelor of Computer
+Heyo, I’m Ethan! I'm a South African second-year Bachelor of Computer
 Science student!
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
