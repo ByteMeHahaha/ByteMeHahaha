@@ -20,11 +20,11 @@ Science student!
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
   of programming languages related to software and web apps.
-  - See my portfolio site [here](https://ethankletschke.netlify.app/).
+  - See my portfolio site [here](https://ethankportfolio.netlify.app/).
 - How to reach me:
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethan-kletschke-164a24384)
   - Email:
-    <a href="mailto:ethankletschke@outlook.com">ethankletschke@outlook.com</a>
+    <a href="mailto:EthanBytesss@gmail.com">EthanBytesss@gmail.com</a>
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
@@ -85,7 +85,7 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - XSLT (XML Styling)
 - Extended Backus-Naur Form (EBNF)
   - Specifically, in my repository
-    ["E-Calc"](https://github.com/ethanKletschke/E-Calc), I used the stricter ISO
+    ["E-Calc"](https://github.com/ByteMeHahaha/E-Calc), I used the stricter ISO
     standard for EBNF to create a _**basic**_ calculator and assignment language.
 - XML DTDs
 
