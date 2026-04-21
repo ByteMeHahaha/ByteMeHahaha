@@ -15,7 +15,7 @@ Table of Contents:
 
 ## About Me
 
-Heyo, I’m Ethan! I'm a South African second-year Bachelor of Computer
+Heyo, I’m Ethan! I'm a second-year Bachelor of Computer
 Science student!
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
