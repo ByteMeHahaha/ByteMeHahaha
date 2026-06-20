@@ -65,6 +65,8 @@ And I know at least the basics of:
 I use COBOL for hobby apps, specifically [GnuCOBOL](https://gnucobol.sourceforge.io/), using
 [Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)
 
+Additionally, I use XML and its related languages (XSD, DTD, XSLT).
+
 ---
 
 I have previously experimented to varying degrees with the languages and
@@ -80,14 +82,10 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - Material UI (React)
 - jQuery
 - Makefile
-- XML
-- XSD
-- XSLT (XML Styling)
 - Extended Backus-Naur Form (EBNF)
   - Specifically, in my repository
     ["E-Calc"](https://github.com/ByteMeHahaha/E-Calc), I used the stricter ISO
     standard for EBNF to create a _**basic**_ calculator and assignment language.
-- XML DTDs
 
 ## Concepts I'm Familiar With
 
