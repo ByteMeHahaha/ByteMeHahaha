@@ -67,8 +67,10 @@ And I know at least the basics of:
 - HTML DOM Handling via JavaScript
 - Docker
 
-I use COBOL for hobby apps, specifically [GnuCOBOL](https://gnucobol.sourceforge.io/), using
-[Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)
+I use COBOL for hobby apps, specifically with
+[GnuCOBOL](https://gnucobol.sourceforge.io/), using
+[Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm).
+I also use it via my WSL2 Ubuntu distro.
 
 Additionally, I use XML and its related languages (XSD, DTD, XSLT) for hobby
 projects as well.
