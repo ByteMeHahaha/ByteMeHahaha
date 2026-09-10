@@ -1,6 +1,6 @@
 # Ethan Kletschke
 
-All about me.
+All about me as a developer and as a person.
 
 ---
 
@@ -37,8 +37,7 @@ Science student at Emeris in Sandton, Johannesburg.
       [GeeksForGeeks](https://www.geeksforgeeks.org/), and countless programming
       languages' documentation.
   - I use AI sometimes for debugging or explaining concepts,
-    but I prefer writing my own code. I’m here to actually learn, not just
-    generate projects.
+    but I prefer writing my own code
 
 ## My Languages/Frameworks
 
