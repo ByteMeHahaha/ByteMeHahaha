@@ -1,22 +1,23 @@
-# Ethan
+# Ethan Kletschke
 
 All about me.
 
 ---
 
 Table of Contents:
-- [Ethan](#ethan)
+- [Ethan Kletschke](#ethan-kletschke)
   - [About Me](#about-me)
   - [My Languages/Frameworks](#my-languagesframeworks)
   - [Concepts I'm Familiar With](#concepts-im-familiar-with)
   - [Concepts I'm Improving](#concepts-im-improving)
+  - [What I'm Currently Learning](#what-im-currently-learning)
 
 ---
 
 ## About Me
 
-Heyo, I’m Ethan! I'm a second-year Bachelor of Computer
-Science student!
+Heyo, I’m Ethan Kletschke! I'm a second-year Bachelor of Computer
+Science student at Emeris in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
   of programming languages related to software and web apps.
@@ -24,7 +25,7 @@ Science student!
 - How to reach me:
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethan-kletschke-164a24384)
   - Email:
-    <a href="mailto:EthanBytesss@gmail.com">EthanBytesss@gmail.com</a>
+    <a href="mailto:ethankletschke@outlook.com">EthanKletschke@Outlook.com</a>
 - Pronouns: he/him
 - Fun facts:
   - My birthday is on 2006-12-06
@@ -43,17 +44,19 @@ Science student!
 
 I am proficient in:
 
-- JavaScript (Both `node.js` and web development)
+- JavaScript (Both for `node.js` and web development)
 - TypeScript
 - React
 - CSS
+- Markdown
 - HTML
 - Git
 
 And I know at least the basics of:
 
-- Basic SQL
+- "Basic" (Standard) SQL
 - JSON
+- JSON Schemas
 - PostgreSQL
 - Bash scripting for Linux (practiced via the Windows Subsystem for
   Linux (WSL))
@@ -61,11 +64,15 @@ And I know at least the basics of:
 - C# (From my 2nd year of university)
 - Pascal (Delphi specifically, from high school)
 - Python
+- Makefiles
+- HTML DOM Handling via JavaScript
+- Docker
 
 I use COBOL for hobby apps, specifically [GnuCOBOL](https://gnucobol.sourceforge.io/), using
 [Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm)
 
-Additionally, I use XML and its related languages (XSD, DTD, XSLT).
+Additionally, I use XML and its related languages (XSD, DTD, XSLT) for hobby
+projects as well.
 
 ---
 
@@ -81,7 +88,6 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 - PHP
 - Material UI (React)
 - jQuery
-- Makefile
 - Extended Backus-Naur Form (EBNF)
   - Specifically, in my repository
     ["E-Calc"](https://github.com/ByteMeHahaha/E-Calc), I used the stricter ISO
@@ -95,15 +101,27 @@ I am familiar with the following concepts:
 - Signed Commits and Tags with GPG keys
 - Object-oriented Programming (OOP)
 - Data Structures and Algorithms (DSA)
-- GitHub repositories (I currently have 22 public repos all made by myself as of
-  2026-03-21)
+- GitHub repositories (I currently have 23 public repos all made by myself as of
+  2026-09-10)
 
 ## Concepts I'm Improving
 
-These are areas I'm actively working on:
+These are areas I'm actively working on improving:
 
 - Writing readable, self-documenting code with meaningful, targeted comments
 - Improving debugging skills in larger or unfamiliar codebases
 - Deep understanding of algorithms and data structures
 - Applying object-oriented design principles (DRY, SOLID)
 - Using Conventional Commits for cleaner Git history
+
+## What I'm Currently Learning
+
+- Docker
+  - Building images with Dockerfiles
+  - Running Containers
+  - Container networking
+- The HTTP Protocol (In-depth)
+- PostgreSQL
+  - Database admin topics
+  - The different object types available in PostgreSQL
+  - Inner and Left Joins
