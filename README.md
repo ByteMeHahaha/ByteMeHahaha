@@ -39,7 +39,7 @@ Science student at Emeris in Sandton, Johannesburg.
     - Everything else was taught to me in school.
   - I use AI sometimes for debugging or explaining concepts,
     but I prefer learning and writing my own code for my own projects.
-  - If I want to learn a new topic, I learn the topic first before I use it
+  - If I want to learn a new topic, I learn the topic in-depth first before I use it
     in practice.
 
 ## My Languages/Frameworks
