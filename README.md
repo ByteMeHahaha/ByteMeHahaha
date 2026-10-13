@@ -1,11 +1,11 @@
-# Ethan Kletschke
+# Ethan
 
 All about me as a developer and as a person.
 
 ---
 
 Table of Contents:
-- [Ethan Kletschke](#ethan-kletschke)
+- [Ethan](#ethan)
   - [About Me](#about-me)
   - [My Languages/Frameworks](#my-languagesframeworks)
   - [Concepts I'm Familiar With](#concepts-im-familiar-with)
@@ -16,7 +16,7 @@ Table of Contents:
 
 ## About Me
 
-Heyo, I’m Ethan Kletschke! I'm a second-year Bachelor of Computer
+Heyo, I’m Ethan! I'm a second-year Bachelor of Computer
 Science student at Emeris in Sandton, Johannesburg.
 
 - I’m mostly interested in web development, but am well-versed in a wide variety
@@ -36,8 +36,11 @@ Science student at Emeris in Sandton, Johannesburg.
       [Tutorialspoint.com](https://www.tutorialspoint.com/),
       [GeeksForGeeks](https://www.geeksforgeeks.org/), and countless programming
       languages' documentation.
+    - Everything else was taught to me in school.
   - I use AI sometimes for debugging or explaining concepts,
-    but I prefer writing my own code
+    but I prefer learning and writing my own code for my own projects.
+  - If I want to learn a new topic, I learn the topic first before I use it
+    in practice.
 
 ## My Languages/Frameworks
 
@@ -45,22 +48,25 @@ I am proficient in:
 
 - JavaScript (Both for `node.js` and web development)
 - TypeScript
+- GnuCOBOL
 - React
 - CSS
 - Markdown
 - HTML
+- JSON
 - Git
 
 And I know at least the basics of:
 
 - "Basic" (Standard) SQL
-- JSON
 - JSON Schemas
 - PostgreSQL
 - Bash scripting for Linux (practiced via the Windows Subsystem for
   Linux (WSL))
 - Java (From my 1st year of university)
 - C# (From my 2nd year of university)
+- Perl
+- C
 - Pascal (Delphi specifically, from high school)
 - Python
 - Makefiles
@@ -70,10 +76,8 @@ And I know at least the basics of:
 I use COBOL for hobby apps, specifically with
 [GnuCOBOL](https://gnucobol.sourceforge.io/), using
 [Arnold Trembley's pre-built Windows binary](https://www.arnoldtrembley.com/GnuCOBOL.htm).
-I also use it via my WSL2 Ubuntu distro.
-
-Additionally, I use XML and its related languages (XSD, DTD, XSLT) for hobby
-projects as well.
+I also use it via my WSL Ubuntu distro, with `cobc` built from source via
+[sourceforge.net](https://sourceforge.net/projects/gnucobol/files/gnucobol/3.2/).
 
 ---
 
@@ -81,11 +85,12 @@ I have previously experimented to varying degrees with the languages and
 frameworks listed below.
 Unless otherwise specified, I do not use these languages and frameworks anymore.
 
-- Perl
 - C++
 - Bootstrap 4
 - Bootstrap 5
+- Pascal/Delphi (High School)
 - Fortran 90
+- XML and related languages
 - PHP
 - Material UI (React)
 - jQuery
@@ -102,8 +107,8 @@ I am familiar with the following concepts:
 - Signed Commits and Tags with GPG keys
 - Object-oriented Programming (OOP)
 - Data Structures and Algorithms (DSA)
-- GitHub repositories (I currently have 23 public repos all made by myself as of
-  2026-09-10)
+- GitHub repositories (I currently have 25 public repos all made by myself as of
+  2026-10-13)
 
 ## Concepts I'm Improving
 
@@ -120,9 +125,9 @@ These are areas I'm actively working on improving:
 - Docker
   - Building images with Dockerfiles
   - Running Containers
-  - Container networking
-- The HTTP Protocol (In-depth)
+- C
+  - Pointers and references
+- Perl
+  - Basics
 - PostgreSQL
-  - Database admin topics
   - The different object types available in PostgreSQL
-  - Inner and Left Joins
