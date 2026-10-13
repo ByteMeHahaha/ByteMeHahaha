@@ -104,6 +104,7 @@ Unless otherwise specified, I do not use these languages and frameworks anymore.
 I am familiar with the following concepts:
 
 - Conventional Commits (Git)
+- Setting up and managing a GitHub repository
 - Signed Commits and Tags with GPG keys
 - Object-oriented Programming (OOP)
 - Data Structures and Algorithms (DSA)
